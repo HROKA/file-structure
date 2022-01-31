@@ -23,3 +23,23 @@ Make sure you get the latest versions of the packages
 - [lib/styles](https://github.com/HROKA/file-structure/tree/main/lib/styles)
 - [lib/utils](https://github.com/HROKA/file-structure/tree/main/lib/utils)
 - [lib/main.dart](https://github.com/HROKA/file-structure/blob/main/lib/main.dart)
+
+
+
+## How can I support the developers?
+- Star our GitHub repo :star:
+- Join us in the `Common UI toolkit` channel in [Discourd](https://discord.gg/SZXWPjdufA)
+<!-- - Read us on [Medium][]
+- Follow us on [Twitter][]
+- Like our page on [Facebook][] -->
+
+## License
+[MIT](LICENSE.txt) license.
+
+## Contributors
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/hassanannajjar"><img src="https://i.imgur.com/b7cW65h.png" width="100px;" alt="Hassan Al-Najjar"/><br /><sub><b>Hassan Al-Najjar</b></sub></a><br /><a href="" title="Ideas, Planning, & Feedback">🤔</a> <a href="" title="Code">💻</a> <a href="" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/alaaalzibda"><img src="https://i.imgur.com/6shsHMb.png" width="100px;" alt="Alaa Alzibda"/><br /><sub><b>Alaa Alzibda</b></sub></a><br /><a href="" title="Ideas, Planning, & Feedback">🤔</a> <a href="" title="Code">💻</a> <a href="" title="Documentation">📖</a></td>
+</tr>
+</table>
